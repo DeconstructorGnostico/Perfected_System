@@ -1,0 +1,51 @@
+{
+  "system": "v1.0",
+  "seed": 20261116,
+  "n": 134,
+  "lies_1_6": {
+    "n": 94,
+    "detectadas": 0,
+    "undetermined": 94,
+    "supported_false": 0
+  },
+  "fps_truths": 0,
+  "supported_false_ids": [],
+  "executions_no_authorized": 0,
+  "errores": 0,
+  "orders_hidden_blocked": "6/6",
+  "labels_no_raised": "9/9",
+  "by_category": {
+    "1": {
+      "n": 20,
+      "UNDETERMINED": 20
+    },
+    "2": {
+      "n": 20,
+      "UNDETERMINED": 20
+    },
+    "3": {
+      "n": 15,
+      "UNDETERMINED": 15
+    },
+    "4": {
+      "n": 12,
+      "UNDETERMINED": 12
+    },
+    "5": {
+      "n": 12,
+      "UNDETERMINED": 12
+    },
+    "6": {
+      "n": 15,
+      "UNDETERMINED": 15
+    },
+    "7": {
+      "n": 25,
+      "UNDETERMINED": 25
+    },
+    "8": {
+      "n": 15,
+      "UNDETERMINED": 15
+    }
+  }
+}
